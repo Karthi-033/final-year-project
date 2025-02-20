@@ -1,0 +1,25 @@
+.video-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+h1 {
+  color: #2c3e50;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 10px;
+}
+
+.video-item {
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}

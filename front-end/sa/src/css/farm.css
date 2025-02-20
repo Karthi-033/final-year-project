@@ -1,0 +1,69 @@
+.input
+{
+  width: 200%;
+  background-color: white;
+  color:black;
+  padding-bottom: 8%;
+  border: 2px solid white;
+  border-radius: 15px;
+
+}
+.input[name="district"],
+.input[name="taluka"],
+.input[name="pincode"]
+{
+  width: 200%;
+  background-color: white;
+  color:black;
+  padding-bottom: 2%;
+  border: 2px solid white;
+
+}
+
+#linespace
+{
+margin-bottom: 2%;
+}
+.form
+{
+ margin-left: 35%;
+ 
+ 
+}
+.button
+{
+  border-radius: 25px;
+  margin-left: 11%;
+  margin-top: 0;
+  padding: 2%;
+  background-color: blue;
+  color:white;
+  font-weight: bold;
+  
+}
+
+.buttonb
+{
+  background-color: rgb(71, 155, 224);
+  padding: 1%;
+  border-radius: 25px;
+}
+.rec{
+  margin-left: 40%;
+}
+.close
+{
+  background-color: red;
+  padding: 1%;
+  border-radius: 25px;
+  margin-right: 70%;
+}
+.cropbg
+{
+  background-color: aliceblue;
+  margin-right: 65%;
+  padding-left: 5%;
+  margin-top: 2%;
+  border-radius: 10%;
+  margin-bottom: 2%;
+}

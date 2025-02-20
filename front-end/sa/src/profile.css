@@ -1,0 +1,84 @@
+/* Profile Page Styles */
+.profile-container {
+    width: 100%;
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 40px 0;
+    padding-bottom: 5.5%;
+  }
+  
+  .profile-header h1 {
+    font-size: 36px;
+    color: #4CAF50;
+  }
+  
+  .profile-header h3 {
+    font-size: 22px;
+    color: #6c757d;
+  }
+  
+  .services-intro p {
+    font-size: 18px;
+    color: #333;
+    margin: 20px 0;
+  }
+  
+  .services-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    padding: 20px;
+  }
+  
+  .service-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s;
+    text-align: center;
+  }
+  
+  .service-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .service-icon {
+    background-color: #4CAF50;
+    color: white;
+   margin-left: 35%;
+   margin-right: 35%;
+    border-radius: 50%;
+    font-size: 40px;
+    margin-top: 20px;
+    padding: 10px;
+    
+  }
+  
+  .service-info {
+    padding: 15px;
+  }
+  
+  .service-title {
+    font-size: 20px;
+    color: #4CAF50;
+    margin-bottom: 10px;
+  }
+  
+  .service-description {
+    font-size: 16px;
+    color: #6c757d;
+  }
+  
+  .profile-container a {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .profile-container a:hover {
+    text-decoration: underline;
+  }
+  

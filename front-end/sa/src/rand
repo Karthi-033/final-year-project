@@ -1,0 +1,37 @@
+const cropRevenue = {
+  "Rice": 332000,        // 4000 USD * 83 INR
+  "Banana": 415000,      // 5000 USD * 83 INR
+  "Groundnut": 290500,   // 3500 USD * 83 INR
+  "Sugarcane": 498000,   // 6000 USD * 83 INR
+  "Cotton": 373500,      // 4500 USD * 83 INR
+  "Mango": 581000,       // 7000 USD * 83 INR
+  "Tomato": 249000,      // 3000 USD * 83 INR
+  "Brinjal": 207500,     // 2500 USD * 83 INR
+  "Chili": 232400,       // 2800 USD * 83 INR
+  "Onion": 265600,       // 3200 USD * 83 INR
+  "Guava": 290500,       // 3500 USD * 83 INR
+  "Papaya": 332000,      // 4000 USD * 83 INR
+  "Carrot": 207500,      // 2500 USD * 83 INR
+  "Cucumber": 182600,    // 2200 USD * 83 INR
+  "Pumpkin": 166600,     // 2000 USD * 83 INR
+  "Cabbage": 149400,     // 1800 USD * 83 INR
+  "Cauliflower": 149400, // 1800 USD * 83 INR
+  "Potato": 232400,      // 2800 USD * 83 INR
+  "Green beans": 199200, // 2400 USD * 83 INR
+  "Peas": 182600,        // 2200 USD * 83 INR
+  "Garlic": 290500,      // 3500 USD * 83 INR
+  "Broccoli": 332000,    // 4000 USD * 83 INR
+  "Strawberry": 373500,  // 4500 USD * 83 INR
+  "Tea": 664000,         // 8000 USD * 83 INR
+  "Coconut": 290500,     // 3500 USD * 83 INR
+  "Tamarind": 498000,    // 6000 USD * 83 INR
+  "Cashew": 705500,      // 8500 USD * 83 INR
+  "Tobacco": 332000,     // 4000 USD * 83 INR
+  "Watermelon": 249000,  // 3000 USD * 83 INR
+  "Maize": 249000,       // 3000 USD * 83 INR
+  "Pulses": 290500,      // 3500 USD * 83 INR
+  "Pomegranate": 249000, // 3000 USD * 83 INR
+  "Turmeric": 1990000,   // 30000 USD * 83 INR (Updated from $30,000 to INR)
+  "Cardamom": 24500000 , // 600000 USD * 83 INR
+  "Millets" : 37762,
+};

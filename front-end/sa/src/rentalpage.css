@@ -1,0 +1,37 @@
+.continer01
+{
+    margin-left: 30%;
+    margin-right: 26%;
+    font-weight: bolder;
+    
+}
+.inputs[name="name"],
+.inputs[name="location"],
+.inputs[name="size"],
+.inputs[name="price"],
+.inputs[name="contactNumber"]
+{
+background-color: white;
+color: black;
+}
+
+.inputs
+{
+    width: 94%;
+    padding-bottom: 4%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    border-color: white;
+}
+.buttons{
+    margin-left: 40%;
+    background-color: rgb(128, 255, 1);
+    padding: 2%;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+
+.buttons:hover{
+    background-color: aqua;
+}
+

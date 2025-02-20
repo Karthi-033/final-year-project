@@ -1,0 +1,140 @@
+{
+  "Anthiyur": {
+    "638501": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Maize" } ]
+  },
+  "Bhavani": {
+    "638301": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Cotton" }, { "crop": "Groundnut" } ],
+    "638311": [ { "crop": "Cotton" }, { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Tomato" } ],
+    "638312": [ { "crop": "Tomato" }, { "crop": "Rice" }, { "crop": "Chili" }, { "crop": "Onion" } ],
+    "638314": [ { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Wheat" } ],
+    "638315": [ { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Onion" }, { "crop": "Cotton" } ],
+    "638455": [ { "crop": "Maize" }, { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Groundnut" } ],
+    "638501": [ { "crop": "Wheat" }, { "crop": "Pulses" }, { "crop": "Rice" }, { "crop": "Sugarcane" } ],
+    "638502": [ { "crop": "Pulses" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Tomato" } ],
+    "638504": [ { "crop": "Tobacco" }, { "crop": "Groundnut" }, { "crop": "Cotton" }, { "crop": "Wheat" } ]
+  },
+  "Erode": {
+    "638001": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Cotton" }, { "crop": "Chili" } ],
+    "638002": [ { "crop": "Tomato" }, { "crop": "Onion" }, { "crop": "Groundnut" }, { "crop": "Cotton" } ],
+    "638003": [ { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Maize" } ],
+    "638004": [ { "crop": "Maize" }, { "crop": "Wheat" }, { "crop": "Cotton" }, { "crop": "Tomato" } ],
+    "638005": [ { "crop": "Tobacco" }, { "crop": "Groundnut" }, { "crop": "Chili" }, { "crop": "Wheat" } ],
+    "638007": [ { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Maize" } ],
+    "638009": [ { "crop": "Pulses" }, { "crop": "Groundnut" }, { "crop": "Tomato" }, { "crop": "Onion" } ],
+    "638010": [ { "crop": "Barley" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Maize" } ],
+    "638011": [ { "crop": "Mustard" }, { "crop": "Onion" }, { "crop": "Wheat" }, { "crop": "Sugarcane" } ],
+    "638012": [ { "crop": "Groundnut" }, { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Cotton" } ],
+    "638051": [ { "crop": "Soybean" }, { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Wheat" } ],
+    "638052": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Maize" }, { "crop": "Groundnut" } ],
+    "638053": [ { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Chili" }, { "crop": "Cotton" } ],
+    "638054": [ { "crop": "Cotton" }, { "crop": "Rice" }, { "crop": "Wheat" }, { "crop": "Groundnut" } ],
+    "638055": [ { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Onion" } ],
+    "638056": [ { "crop": "Maize" }, { "crop": "Chili" }, { "crop": "Cotton" }, { "crop": "Sugarcane" } ],
+    "638057": [ { "crop": "Tomato" }, { "crop": "Chili" }, { "crop": "Groundnut" }, { "crop": "Maize" } ],
+    "638101": [ { "crop": "Onion" }, { "crop": "Cotton" }, { "crop": "Sugarcane" }, { "crop": "Rice" } ],
+    "638102": [ { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Sugarcane" } ],
+    "638103": [ { "crop": "Pulses" }, { "crop": "Cotton" }, { "crop": "Groundnut" }, { "crop": "Chili" } ],
+    "638104": [ { "crop": "Mustard" }, { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Maize" } ],
+    "638105": [ { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Chili" }, { "crop": "Cotton" } ],
+    "638106": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Chili" } ],
+    "638107": [ { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Onion" } ],
+    "638109": [ { "crop": "Cotton" }, { "crop": "Groundnut" }, { "crop": "Maize" }, { "crop": "Chili" } ],
+    "638110": [ { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Cotton" } ],
+    "638112": [ { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Cotton" } ],
+    "638115": [ { "crop": "Tomato" }, { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Sugarcane" } ],
+    "638116": [ { "crop": "Barley" }, { "crop": "Onion" }, { "crop": "Groundnut" }, { "crop": "Chili" } ],
+    "638151": [ { "crop": "Soybean" }, { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Cotton" } ],
+    "638152": [ { "crop": "Pulses" }, { "crop": "Chili" }, { "crop": "Sugarcane" }, { "crop": "Wheat" } ],
+    "638153": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Cotton" }, { "crop": "Onion" } ],
+    "638154": [ { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Groundnut" }, { "crop": "Maize" } ],
+    "638313": [ { "crop": "Groundnut" }, { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Maize" } ],
+    "638316": [ { "crop": "Cotton" }, { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Tomato" } ],
+    "638454": [ { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Onion" }, { "crop": "Groundnut" } ],
+    "638455": [ { "crop": "Maize" }, { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Cotton" } ],
+    "638456": [ { "crop": "Tomato" }, { "crop": "Chili" }, { "crop": "Wheat" }, { "crop": "Onion" } ],
+    "638457": [ { "crop": "Onion" }, { "crop": "Groundnut" }, { "crop": "Tomato" }, { "crop": "Rice" } ],
+    "638458": [ { "crop": "Wheat" }, { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Groundnut" } ],
+    "638459": [ { "crop": "Pulses" }, { "crop": "Maize" }, { "crop": "Tomato" }, { "crop": "Wheat" } ],
+    "638462": [ { "crop": "Mustard" }, { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Sugarcane" } ],
+    "638476": [ { "crop": "Groundnut" }, { "crop": "Cotton" }, { "crop": "Maize" }, { "crop": "Wheat" } ],
+    "638501": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Maize" } ],
+    "638502": [ { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Tomato" } ],
+    "638503": [ { "crop": "Cotton" }, { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Onion" } ],
+    "638504": [ { "crop": "Tomato" }, { "crop": "Cotton" }, { "crop": "Sugarcane" }, { "crop": "Groundnut" } ],
+    "638505": [ { "crop": "Onion" }, { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Cotton" } ],
+    "638506": [ { "crop": "Groundnut" }, { "crop": "Tomato" }, { "crop": "Rice" }, { "crop": "Maize" } ],
+    "638751": [ { "crop": "Chili" }, { "crop": "Cotton" }, { "crop": "Rice" }, { "crop": "Groundnut" } ],
+    "638752": [ { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Wheat" } ]
+  },
+
+  "Modkurichi": {
+    "638104": [ { "crop": "Tomato" }, { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Maize" } ]
+  },
+   "Perundurai": {
+    
+      "638052": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Chili" }, { "crop": "Cotton" } ],
+      "638053": [ { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Wheat" } ],
+      "638055": [ { "crop": "Cotton" }, { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Groundnut" } ],
+      "638056": [ { "crop": "Tomato" }, { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Sugarcane" } ],
+      "638057": [ { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Chili" }, { "crop": "Maize" } ],
+      "638110": [ { "crop": "Chili" }, { "crop": "Tomato" }, { "crop": "Cotton" }, { "crop": "Rice" } ],
+      "638112": [ { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Groundnut" }, { "crop": "Chili" } ],
+      "638116": [ { "crop": "Onion" }, { "crop": "Cotton" }, { "crop": "Wheat" }, { "crop": "Rice" } ],
+      "638751": [ { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Maize" } ],
+      "638752": [ { "crop": "Pulses" }, { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Tomato" } ],
+      "638812": [ { "crop": "Barley" }, { "crop": "Cotton" }, { "crop": "Rice" }, { "crop": "Groundnut" } ]
+    },
+    "Gobichettipalayam": {
+   
+      "638452": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Groundnut" }, { "crop": "Chili" } ],
+      "638453": [ { "crop": "Sugarcane" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Chili" } ],
+      "638454": [ { "crop": "Cotton" }, { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Tomato" } ],
+      "638455": [ { "crop": "Tomato" }, { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Wheat" } ],
+      "638456": [ { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Sugarcane" } ],
+      "638457": [ { "crop": "Chili" }, { "crop": "Tomato" }, { "crop": "Onion" }, { "crop": "Groundnut" } ],
+      "638458": [ { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Chili" }, { "crop": "Cotton" } ],
+      "638459": [ { "crop": "Wheat" }, { "crop": "Tomato" }, { "crop": "Rice" }, { "crop": "Sugarcane" } ],
+      "638462": [ { "crop": "Pulses" }, { "crop": "Rice" }, { "crop": "Maize" }, { "crop": "Chili" } ],
+      "638476": [ { "crop": "Barley" }, { "crop": "Groundnut" }, { "crop": "Chili" }, { "crop": "Maize" } ],
+      "638503": [ { "crop": "Mustard" }, { "crop": "Rice" }, { "crop": "Groundnut" }, { "crop": "Cotton" } ],
+      "638505": [ { "crop": "Groundnut" }, { "crop": "Maize" }, { "crop": "Rice" }, { "crop": "Chili" } ],
+      "638506": [ { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Wheat" }, { "crop": "Maize" } ]
+    },
+ "Sathyamangalam": {
+    
+      "638401": [ { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Groundnut" }, { "crop": "Chili" } ],
+      "638402": [ { "crop": "Sugarcane" }, { "crop": "Wheat" }, { "crop": "Rice" }, { "crop": "Maize" } ],
+      "638451": [ { "crop": "Cotton" }, { "crop": "Rice" }, { "crop": "Sugarcane" }, { "crop": "Wheat" } ],
+      "638459": [ { "crop": "Tomato" }, { "crop": "Rice" }, { "crop": "Wheat" }, { "crop": "Chili" } ],
+      "638460": [ { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Cotton" }, { "crop": "Wheat" } ],
+      "638461": [ { "crop": "Chili" }, { "crop": "Rice" }, { "crop": "Tomato" }, { "crop": "Maize" } ],
+      "638503": [ { "crop": "Maize" }, { "crop": "Groundnut" }, { "crop": "Rice" }, { "crop": "Sugarcane" } ]
+    },
+
+    "Nambiyur": {
+    "638458": [
+      { "crop": "Rice" },
+      { "crop": "Sugarcane" },
+      { "crop": "Cotton" },
+      { "crop": "Maize" },
+      { "crop": "Groundnut" },
+      { "crop": "Wheat" },
+      { "crop": "Tomato" },
+      { "crop": "Chili" },
+      { "crop": "Onion" },
+      { "crop": "Pulses" }
+    ],
+    "638110": [
+      { "crop": "Chili" },
+      { "crop": "Rice" },
+      { "crop": "Tomato" },
+      { "crop": "Cotton" },
+      { "crop": "Maize" },
+      { "crop": "Wheat" },
+      { "crop": "Sugarcane" },
+      { "crop": "Groundnut" }
+    ]
+  },
+
+
+}
